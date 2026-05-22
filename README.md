@@ -5,7 +5,7 @@ Scoop bucket for tools by [rikettsie](https://github.com/rikettsie).
 ## Install
 
     scoop bucket add rikettsie https://github.com/rikettsie/scoop-bucket
-    scoop install <formula>
+    scoop install <package>
 
 ## Available packages
 
