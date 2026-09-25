@@ -1,12 +1,12 @@
 {
-  "version": "0.22.0",
+  "version": "0.22.1",
   "description": "P2P streamed file transfer with ring-based access control",
   "homepage": "https://github.com/rikettsie/ringdrop",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/rikettsie/ringdrop/releases/download/v0.22.0/rdrop-0.22.0-x86_64-pc-windows-msvc.zip",
-      "hash": "e300149ce62ae4e8115261800b76e045632b9bf1317687a7d873be43349d58d2"
+      "url": "https://github.com/rikettsie/ringdrop/releases/download/v0.22.1/rdrop-0.22.1-x86_64-pc-windows-msvc.zip",
+      "hash": "78615135c7b8179b2dc73511a2402fb64de047674c61fcaef82348e10339022f"
     }
   },
   "bin": "rdrop.exe",
